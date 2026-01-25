@@ -1,5 +1,5 @@
-#This is my first python project.
+This is my first python project.
 <br>
-#This is simple calculator build using python.
+This is simple calculator build using python.
 <br>
-#Authot = Nikhil kumar
+Authot = Nikhil kumar
