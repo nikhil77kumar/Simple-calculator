@@ -1,5 +1,15 @@
-This is my first python project.
+🧮 Python Calculator
 <br>
-This is simple calculator build using python.
+A simple calculator built using Python.  
+This project can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 <br>
-Authot = Nikhil kumar
+## 🚀 Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Easy to use
+- Beginner friendly
+<br>
+## 🛠️ Technologies Used
+- Python 3
