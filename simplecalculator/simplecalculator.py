@@ -34,6 +34,3 @@ if (choice == "3"):
 
 if (choice == "4"):
     print("The Answer is:",for_division(Number1 ,Number2))
-
-else:
-    print("Invalid choice")
